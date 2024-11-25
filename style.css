@@ -1,0 +1,29 @@
+*{
+    background-color: dimgray;
+}
+
+.wrapper {
+    display: grid;
+    background-color: gainsboro;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-rows: 500px 1fr 2fr 8fr;
+
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(61, 33, 61);
+    margin: 4px;
+    font-style: italic;
+    c
+
+}
+
+
+div {
+    background-color: silver;
+    border: 3px solid slategray;
+    margin: 2px;
+    font: 1em sans-serif;
+    padding: 10px;
+}
